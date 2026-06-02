@@ -71,10 +71,10 @@ Implemented reusable helper utilities for:
 # Example Outputs
 
 ## Torque-Speed Characteristic
-![Torque Speed](industrial-drives/figures/torque_speed_curve.png)
+![Torque Speed](industrial-drives/figures/torque_speed_comparison.png)
 
-## Inertia Estimation
-![Inertia](industrial-drives/figures/inertia_estimation.png)
+## High Acceleration-Torque Estimation
+![Inertia](industrial-drives/figures/high_acceleration_torque_estimation.png)
 
 ## Friction Model
-![Friction](industrial-drives/figures/friction_model.png)
+![Friction](industrial-drives/figures/friction_model_estimation.png)
